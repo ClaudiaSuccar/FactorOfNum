@@ -1,5 +1,5 @@
 # FactorOfNum
-Checks the factors of any number between 1 and 100.
+Finds the factors of any number between 1 and 100.
 
 1. User is prompted to enter any number between 1 and 100.
 ```python
