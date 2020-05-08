@@ -16,7 +16,7 @@ for num in range(1, 101):
     print(num)
 ```    
     
-3. Numbers that return a 0 are factors of the input. The program returns a list of numbers between 1 and 100 and higlights factors of the the input.
+3. Numbers that return 0 are factors of the input. The program returns a list of numbers between 1 and 100 and higlights factors of the the input.
 
 _Example:_
 
