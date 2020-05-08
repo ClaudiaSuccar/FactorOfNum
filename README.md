@@ -32,5 +32,6 @@ Enter a number 1-100: 24
 [ 8 ]
 9
 10
+...
 ```
 And so on...
